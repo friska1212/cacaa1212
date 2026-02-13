@@ -15,9 +15,9 @@
 
 ---
 
-## 📅 TIMELINE & PORTOFOLIO TUGAS
+## 📅 TIMELINE & PORTOFOLIO PROJECT 
 
-| Bulan | Minggu | Tanggal | Tugas / Proyek | Deskripsi Singkat | Link Tugas |
+| Bulan | Minggu | Tanggal | Proyek | Deskripsi Singkat | Link Tugas |
 |-------|--------|--------|----------------|-------------------|------------|
 | **Januari** | 1 | 6 Jan 2026 | **Jurnal Mengajar Guru** | Sistem pencatatan jurnal mengajar harian | [🔗 Link Tugas](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
 | | 2 & 3 | 12-21 Jan 2026 | **Data Collection & Understanding / Basis Data Part 1-10** | Praktik pengumpulan dan pemahaman data, terkait sistem jadwal kuliah | [📁 Google Drive](https://drive.google.com/drive/folders/1Gh9g8R9_PDlnaqhsTSajOEvDga3etw6N?usp=sharing) |
