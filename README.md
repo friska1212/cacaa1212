@@ -23,7 +23,7 @@
 | | Minggu 2 & 3 | **Data Collection & Understanding** | Praktik pengumpulan dan pemahaman data sistem jadwal kuliah | [📁 Drive](https://drive.google.com/drive/folders/1Gh9g8R9_PDlnaqhsTSajOEvDga3etw6N?usp=sharing) |
 | | Minggu 4 | **Data Cleaning & Preparation** | Membersihkan data untuk pembuatan Jurnal Jadwal Kuliah | [🚀 Demo](https://script.google.com/macros/s/AKfycbyK_KhbZzO53EjLd9qgOcjwf1YgCfUHtBQxSRmyfPdFZntwsNJIQw4wiy7KLcF3mAQUnQ/exec) |
 | **Februari** | Minggu 1 | **Aplikasi Kasir Laundry** | Aplikasi kasir berbasis Google Apps Script | [🚀 Demo](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) \| [📁 Database](https://drive.google.com/drive/folders/1d-9eAdEJqzrIezXaG_qindJNFEkKbavR?usp=sharing) |
-| | Minggu 2 | **Data Cleaning Cafe Store** | Membersihkan dan mempersiapkan dataset penjualan cafe | [📁 Drive](https://drive.google.com/drive/folders/1hSdUCgAGx3Wc_GTQCQUAsKLK-gvNGRFp?usp=sharing) |
+| | Minggu 2 | **Data Cleaning Cafe Store** | Membersihkan dan mempersiapkan dataset penjualan cafe | [📁 Drive](https://drive.google.com/drive/folders/1hSdUCgAGx3Wc_GTYCQUAsKLK-gvNGRFp?usp=sharing) |
 | | Minggu 3 | **Aplikasi Sistem Pengaduan Warga** | Sistem pengaduan berbasis Google Apps Script | [🚀 Demo](https://script.google.com/macros/s/AKfycbzT8YUQGOoRDAGJQhCDlApf1PuoVVFUyoAXCAdckW8zQ6Llkzn0zgKQE9jIDx6rJnun1Q/exec) \| [📁 Database](https://drive.google.com/drive/folders/1Gcw5KcWLl2_SifQIZ0Zv9SdMp0rsEqOi?usp=sharing) |
 | **Maret** | Minggu 1 | **Problem Solving & Business Question** | Analisis masalah bisnis dari dataset Retail Store Sales | [📁 Drive](https://drive.google.com/drive/folders/1VYhlzVDsC-55nsIy5niQfFdWKdx79utp?usp=sharing) |
 | | Minggu 2 | **Analisis Data — Laporan Bisnis & Data Storytelling** | Tugas 6 & 7: Reporting, Dashboard, dan Portfolio Project | [📁 Drive](https://drive.google.com/drive/folders/1U4qTX_sxceyaI9Ccuu07Ickec-cowsUi?usp=sharing) |
@@ -99,7 +99,7 @@ Proses pembersihan dataset penjualan cafe (dirty_cafe_sales.csv). Menangani miss
 - Membuang baris dengan Transaction Date tidak valid (460 baris)
 - Hasil: 9.540 baris bersih dari 10.000 baris awal
 
-**Link:** [📁 Google Drive](https://drive.google.com/drive/folders/1hSdUCgAGx3Wc_GTQCQUAsKLK-gvNGRFp?usp=sharing)
+**Link:** [📁 Google Drive](https://drive.google.com/drive/folders/1hSdUCgAGx3Wc_GTYCQUAsKLK-gvNGRFp?usp=sharing)
 
 ---
 
