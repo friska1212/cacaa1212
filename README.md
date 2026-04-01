@@ -21,11 +21,11 @@
 |---|---|---|---|
 | Tahap 1 | Januari | **Jurnal Mengajar Guru** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
 | Tahap 2 | Januari | **Data Collection & Understanding** | [📖 Lihat Dokumentasi](#-tahap-2-januari--data-collection--understanding) |
-| Tahap 3 | 23 - 27 Februari | **Data Cleaning & Aplikasi Kasir** | [🚀 Link Aplikasi Kasir Laundry](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) · [📁 Data Cleaning Cafe Sales](https://drive.google.com/file/d/1Ke1P3xOv8MrYWCV_B5nbLivdrTY_KA9c/view?usp=sharing) · [📁 Data Cleaning Retail Store](https://drive.google.com/file/d/1Y4hPn9xm0gJaDfYy7AIr8AGIlyyXMNAx/view?usp=sharing) |
-| Tahap 4 | 2 - 6 Maret | **Exploratory Data Analysis** | ⏳ Segera |
+| Tahap 3 | 23 - 27 Februari | **Data Cleaning & Aplikasi Kasir** | [🚀 Aplikasi Kasir Laundry](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) · [📁 Data Cleaning Cafe Sales](https://drive.google.com/file/d/1Ke1P3xOv8MrYWCV_B5nbLivdrTY_KA9c/view?usp=sharing) · [📁 Data Cleaning Retail Store](https://drive.google.com/file/d/1Y4hPn9xm0gJaDfYy7AIr8AGIlyyXMNAx/view?usp=sharing) |
+| Tahap 4 | 2 - 6 Maret | **Exploratory Data Analysis** | [📄 Data Storytelling EDA](https://docs.google.com/document/d/1TK_6qoR8UE_Ooq3ezlRFYZHfLUblRZqn/edit?usp=sharing) · [📑 Retail Store Report EDA](https://docs.google.com/presentation/d/10qmrWHS49RMHOjAJ7DUhvUlJjFWglpVt/edit?usp=sharing) |
 | Tahap 5 | 9 - 13 Maret | **Problem Solving & Business Question** | [📄 Link Tugas Problem Solving](https://docs.google.com/document/d/1SUfX2-8tUmP_n9CMmDsEew6_3WXPhl7A/edit?usp=sharing) |
-| Tahap 6 | 16 - 20 Maret | **Reporting & Data Storytelling** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
-| Tahap 7 | 23 - 27 Maret | **Final Project & Portfolio** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
+| Tahap 6 | 16 - 20 Maret | **Reporting & Data Storytelling** | [📊 Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
+| Tahap 7 | 23 - 27 Maret | **Final Project & Portfolio** | [🌐 SIPADU RT — Final Project](https://edusoftcenter.com/sipadu-rt-solusi-modern-pengelolaan-pengaduan-warga-rt-rw-berbasis-google-apps-script/) |
 | Tahap 8 | 30 - 31 Maret | **Presentasi Akhir & Evaluasi** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
 
 ---
@@ -104,7 +104,19 @@ Proses pembersihan dua dataset untuk memastikan data siap dianalisis.
 
 ### 📌 Tahap 4 (2 - 6 Maret) — Exploratory Data Analysis
 
-**Status: ⏳ Segera**
+**Status: ✅ Selesai**
+
+Eksplorasi mendalam terhadap dataset Retail Store untuk memahami pola, distribusi, dan insight awal sebelum masuk ke tahap analisis bisnis. Mencakup statistik deskriptif, visualisasi data, dan penemuan pola dari dataset.
+
+**Yang dikerjakan:**
+- Analisis statistik deskriptif (rata-rata, median, min, max)
+- Visualisasi distribusi data dan tren penjualan
+- Identifikasi pola dan anomali dalam dataset
+- Penyusunan laporan EDA dalam bentuk dokumen dan presentasi
+
+🔗 [Link Data Storytelling EDA](https://docs.google.com/document/d/1TK_6qoR8UE_Ooq3ezlRFYZHfLUblRZqn/edit?usp=sharing)
+
+🔗 [Link Retail Store Report EDA](https://docs.google.com/presentation/d/10qmrWHS49RMHOjAJ7DUhvUlJjFWglpVt/edit?usp=sharing)
 
 ---
 
@@ -146,16 +158,14 @@ Menyusun laporan bisnis visual berdasarkan hasil analisis data Superstore. Lapor
 
 **Status: ✅ Selesai**
 
-Proyek analisis data end-to-end menggunakan dataset Superstore sebagai portfolio Data Analyst. Menggabungkan seluruh tahapan: pengumpulan, pembersihan, analisis, dan penyajian data.
+Proyek akhir berupa sistem **SIPADU RT** — aplikasi modern pengelolaan pengaduan warga RT/RW berbasis Google Apps Script. Proyek ini dipublikasikan sebagai portfolio profesional dan telah diterbitkan sebagai artikel di platform Edusoftcenter.
 
-**Output:**
-- Dashboard interaktif di Google Spreadsheet dengan berbagai sheet analisis
-- Laporan presentasi PPT 9 slide profesional
-- Dokumentasi lengkap proses analisis
+**Tentang SIPADU RT:**
+- Sistem pengaduan warga digital berbasis Google Apps Script
+- Fitur tracking status pengaduan, dashboard admin, dan notifikasi otomatis
+- Dipublikasikan sebagai karya portfolio Data Analyst & Apps Script Developer
 
-🔗 [Link Spreadsheet Superstore Analyst](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing)
-
-🔗 [Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing)
+🔗 [Link SIPADU RT — Final Project & Portfolio](https://edusoftcenter.com/sipadu-rt-solusi-modern-pengelolaan-pengaduan-warga-rt-rw-berbasis-google-apps-script/)
 
 ---
 
@@ -188,9 +198,14 @@ Presentasi hasil proyek akhir kepada dosen/penguji dan evaluasi keseluruhan pemb
 | Tahap 1 | Januari | Jurnal Mengajar Guru | ✅ Selesai |
 | Tahap 2 | Januari | Data Collection & Understanding | ✅ Selesai |
 | Tahap 3 | 23 - 27 Februari | Data Cleaning & Aplikasi Kasir | ✅ Selesai |
-| Tahap 4 | 2 - 6 Maret | Exploratory Data Analysis | ⏳ Segera |
+| Tahap 4 | 2 - 6 Maret | Exploratory Data Analysis | ✅ Selesai |
 | Tahap 5 | 9 - 13 Maret | Problem Solving & Business Question | ✅ Selesai |
 | Tahap 6 | 16 - 20 Maret | Reporting & Data Storytelling | ✅ Selesai |
 | Tahap 7 | 23 - 27 Maret | Final Project & Portfolio | ✅ Selesai |
 | Tahap 8 | 30 - 31 Maret | Presentasi Akhir & Evaluasi | ✅ Selesai |
+| **Total** | | **8 Tahap** | **✅** |
 
+
+---
+
+*Last updated: Maret 2026*
