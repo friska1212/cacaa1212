@@ -201,5 +201,5 @@ Presentasi hasil proyek akhir kepada dosen/penguji dan evaluasi keseluruhan pemb
 | Tahap 6 | Reporting & Data Storytelling | ✅ Selesai |
 | Tahap 7 | Final Project & Portfolio | ✅ Selesai |
 | Tahap 8 | Presentasi Akhir & Evaluasi | ✅ Selesai |
-| **Total** | **8 Tahap** | **✅ 100%** |
+| **Total** | **8 Tahap** | **✅** |
 
