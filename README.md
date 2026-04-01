@@ -17,16 +17,16 @@
 
 ## 📅 TIMELINE & PORTOFOLIO TUGAS
 
-| Minggu | Tanggal | Tugas / Proyek | Link |
+| Tahap | Tanggal | Tugas / Proyek | Link |
 |---|---|---|---|
-| Minggu 1 | Januari | **Jurnal Mengajar Guru** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
-| Minggu 2 | Januari | **Data Collection & Understanding** | [📖 Lihat Dokumentasi](#-minggu-2-januari--data-collection--understanding) |
-| Minggu 3 | 23 - 27 Februari | **Data Cleaning & Aplikasi Kasir** | [🚀 Link Aplikasi Kasir Laundry](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) · [📁 Data Cleaning Cafe Sales](https://drive.google.com/file/d/1Ke1P3xOv8MrYWCV_B5nbLivdrTY_KA9c/view?usp=sharing) · [📁 Data Cleaning Retail Store](https://drive.google.com/file/d/1Y4hPn9xm0gJaDfYy7AIr8AGIlyyXMNAx/view?usp=sharing) |
-| Minggu 4 | 2 - 6 Maret | **Exploratory Data Analysis** | ⏳ Segera |
-| Minggu 5 | 9 - 13 Maret | **Problem Solving & Business Question** | [📄 Link Tugas Problem Solving](https://docs.google.com/document/d/1SUfX2-8tUmP_n9CMmDsEew6_3WXPhl7A/edit?usp=sharing) |
-| Minggu 6 | 16 - 20 Maret | **Reporting & Data Storytelling** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
-| Minggu 7 | 23 - 27 Maret | **Final Project & Portfolio** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
-| Minggu 8 | 30 - 31 Maret | **Presentasi Akhir & Evaluasi** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
+| Tahap 1 | Januari | **Jurnal Mengajar Guru** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
+| Tahap 2 | Januari | **Data Collection & Understanding** | [📖 Lihat Dokumentasi](#-tahap-2-januari--data-collection--understanding) |
+| Tahap 3 | 23 - 27 Februari | **Data Cleaning & Aplikasi Kasir** | [🚀 Link Aplikasi Kasir Laundry](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) · [📁 Data Cleaning Cafe Sales](https://drive.google.com/file/d/1Ke1P3xOv8MrYWCV_B5nbLivdrTY_KA9c/view?usp=sharing) · [📁 Data Cleaning Retail Store](https://drive.google.com/file/d/1Y4hPn9xm0gJaDfYy7AIr8AGIlyyXMNAx/view?usp=sharing) |
+| Tahap 4 | 2 - 6 Maret | **Exploratory Data Analysis** | ⏳ Segera |
+| Tahap 5 | 9 - 13 Maret | **Problem Solving & Business Question** | [📄 Link Tugas Problem Solving](https://docs.google.com/document/d/1SUfX2-8tUmP_n9CMmDsEew6_3WXPhl7A/edit?usp=sharing) |
+| Tahap 6 | 16 - 20 Maret | **Reporting & Data Storytelling** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
+| Tahap 7 | 23 - 27 Maret | **Final Project & Portfolio** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
+| Tahap 8 | 30 - 31 Maret | **Presentasi Akhir & Evaluasi** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 📌 Minggu 1 (Januari) — Jurnal Mengajar Guru
+### 📌 Tahap 1 (Januari) — Jurnal Mengajar Guru
 
 **Status: ✅ Selesai**
 
@@ -50,7 +50,7 @@ Membuat sistem berbasis Google Apps Script untuk pencatatan jurnal mengajar hari
 
 ---
 
-### 📌 Minggu 2 (Januari) — Data Collection & Understanding
+### 📌 Tahap 2 (Januari) — Data Collection & Understanding
 
 **Status: ✅ Selesai**
 
@@ -71,11 +71,11 @@ Praktik pengumpulan dan pemahaman data menggunakan **MySQL**. Tugas ini mencakup
 
 ---
 
-### 📌 Minggu 3 (23 - 27 Februari) — Data Cleaning & Aplikasi Kasir
+### 📌 Tahap 3 (23 - 27 Februari) — Data Cleaning & Aplikasi Kasir
 
 **Status: ✅ Selesai**
 
-Dua tugas dikerjakan di minggu ini: membuat Aplikasi Kasir Laundry berbasis Google Apps Script, dan melakukan proses data cleaning pada dua dataset berbeda.
+Dua tugas dikerjakan di tahap ini: membuat Aplikasi Kasir Laundry berbasis Google Apps Script, dan melakukan proses data cleaning pada dua dataset berbeda.
 
 **Aplikasi Kasir Laundry**
 
@@ -102,13 +102,13 @@ Proses pembersihan dua dataset untuk memastikan data siap dianalisis.
 
 ---
 
-### 📌 Minggu 4 (2 - 6 Maret) — Exploratory Data Analysis
+### 📌 Tahap 4 (2 - 6 Maret) — Exploratory Data Analysis
 
 **Status: ⏳ Segera**
 
 ---
 
-### 📌 Minggu 5 (9 - 13 Maret) — Problem Solving & Business Question
+### 📌 Tahap 5 (9 - 13 Maret) — Problem Solving & Business Question
 
 **Status: ✅ Selesai**
 
@@ -124,7 +124,7 @@ Analisis mendalam dari dataset Retail Store Sales untuk menjawab pertanyaan bisn
 
 ---
 
-### 📌 Minggu 6 (16 - 20 Maret) — Reporting & Data Storytelling
+### 📌 Tahap 6 (16 - 20 Maret) — Reporting & Data Storytelling
 
 **Status: ✅ Selesai**
 
@@ -142,7 +142,7 @@ Menyusun laporan bisnis visual berdasarkan hasil analisis data Superstore. Lapor
 
 ---
 
-### 📌 Minggu 7 (23 - 27 Maret) — Final Project & Portfolio
+### 📌 Tahap 7 (23 - 27 Maret) — Final Project & Portfolio
 
 **Status: ✅ Selesai**
 
@@ -159,7 +159,7 @@ Proyek analisis data end-to-end menggunakan dataset Superstore sebagai portfolio
 
 ---
 
-### 📌 Minggu 8 (30 - 31 Maret) — Presentasi Akhir & Evaluasi
+### 📌 Tahap 8 (30 - 31 Maret) — Presentasi Akhir & Evaluasi
 
 **Status: ✅ Selesai**
 
@@ -183,16 +183,14 @@ Presentasi hasil proyek akhir kepada dosen/penguji dan evaluasi keseluruhan pemb
 
 ## 📊 Progress Tugas
 
-| Minggu | Tanggal | Tugas | Status |
+| Tahap | Tanggal | Tugas | Status |
 |---|---|---|---|
-| Minggu 1 | Januari | Jurnal Mengajar Guru | ✅ Selesai |
-| Minggu 2 | Januari | Data Collection & Understanding | ✅ Selesai |
-| Minggu 3 | 23 - 27 Februari | Data Cleaning & Aplikasi Kasir | ✅ Selesai |
-| Minggu 4 | 2 - 6 Maret | Exploratory Data Analysis | ⏳ Segera |
-| Minggu 5 | 9 - 13 Maret | Problem Solving & Business Question | ✅ Selesai |
-| Minggu 6 | 16 - 20 Maret | Reporting & Data Storytelling | ✅ Selesai |
-| Minggu 7 | 23 - 27 Maret | Final Project & Portfolio | ✅ Selesai |
-| Minggu 8 | 30 - 31 Maret | Presentasi Akhir & Evaluasi | ✅ Selesai |
-
----
+| Tahap 1 | Januari | Jurnal Mengajar Guru | ✅ Selesai |
+| Tahap 2 | Januari | Data Collection & Understanding | ✅ Selesai |
+| Tahap 3 | 23 - 27 Februari | Data Cleaning & Aplikasi Kasir | ✅ Selesai |
+| Tahap 4 | 2 - 6 Maret | Exploratory Data Analysis | ⏳ Segera |
+| Tahap 5 | 9 - 13 Maret | Problem Solving & Business Question | ✅ Selesai |
+| Tahap 6 | 16 - 20 Maret | Reporting & Data Storytelling | ✅ Selesai |
+| Tahap 7 | 23 - 27 Maret | Final Project & Portfolio | ✅ Selesai |
+| Tahap 8 | 30 - 31 Maret | Presentasi Akhir & Evaluasi | ✅ Selesai |
 
