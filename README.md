@@ -17,16 +17,16 @@
 
 ## 📅 TIMELINE & PORTOFOLIO TUGAS
 
-| Bulan | Minggu | Tugas / Proyek | Deskripsi Singkat | Link |
-|-------|--------|----------------|-------------------|------|
-| **Januari** | Minggu 1 | **Jurnal Mengajar Guru** | Sistem pencatatan jurnal mengajar harian berbasis Google Apps Script | [🚀 Demo](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
-| | Minggu 2 & 3 | **Data Collection & Understanding** | Praktik pengumpulan dan pemahaman data sistem jadwal kuliah | [📁 Drive](https://drive.google.com/drive/folders/1Gh9g8R9_PDlnaqhsTSajOEvDga3etw6N?usp=sharing) |
-| | Minggu 4 | **Data Cleaning & Preparation** | Membersihkan data untuk pembuatan Jurnal Jadwal Kuliah | [🚀 Demo](https://script.google.com/macros/s/AKfycbyK_KhbZzO53EjLd9qgOcjwf1YgCfUHtBQxSRmyfPdFZntwsNJIQw4wiy7KLcF3mAQUnQ/exec) |
-| **Februari** | Minggu 1 | **Aplikasi Kasir Laundry** | Aplikasi kasir berbasis Google Apps Script | [🚀 Demo](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) \| [📁 Database](https://drive.google.com/drive/folders/1d-9eAdEJqzrIezXaG_qindJNFEkKbavR?usp=sharing) |
-| | Minggu 2 | **Data Cleaning Cafe Store** | Membersihkan dan mempersiapkan dataset penjualan cafe | [📁 Drive](https://drive.google.com/drive/folders/1hSdUCgAGx3Wc_GTYCQUAsKLK-gvNGRFp?usp=sharing) |
-| | Minggu 3 | **Aplikasi Sistem Pengaduan Warga** | Sistem pengaduan berbasis Google Apps Script | [🚀 Demo](https://script.google.com/macros/s/AKfycbzT8YUQGOoRDAGJQhCDlApf1PuoVVFUyoAXCAdckW8zQ6Llkzn0zgKQE9jIDx6rJnun1Q/exec) \| [📁 Database](https://drive.google.com/drive/folders/1Gcw5KcWLl2_SifQIZ0Zv9SdMp0rsEqOi?usp=sharing) |
-| **Maret** | Minggu 1 | **Problem Solving & Business Question** | Analisis masalah bisnis dari dataset Retail Store Sales | [📁 Drive](https://drive.google.com/drive/folders/1VYhlzVDsC-55nsIy5niQfFdWKdx79utp?usp=sharing) |
-| | Minggu 2 | **Analisis Data — Laporan Bisnis & Data Storytelling** | Tugas 6 & 7: Reporting, Dashboard, dan Portfolio Project | [📁 Drive](https://drive.google.com/drive/folders/1U4qTX_sxceyaI9Ccuu07Ickec-cowsUi?usp=sharing) |
+| Minggu | Tanggal | Tugas / Proyek | Link |
+|---|---|---|---|
+| Minggu 1 | Januari | **Jurnal Mengajar Guru** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
+| Minggu 2 | Januari | **Data Collection & Understanding** | [📖 Lihat Dokumentasi](#-minggu-2-januari--data-collection--understanding) |
+| Minggu 3 | 23 - 27 Februari | **Data Cleaning & Aplikasi Kasir** | [🚀 Link Aplikasi Kasir Laundry](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) · [📁 Data Cleaning Cafe Sales](https://drive.google.com/file/d/1Ke1P3xOv8MrYWCV_B5nbLivdrTY_KA9c/view?usp=sharing) · [📁 Data Cleaning Retail Store](https://drive.google.com/file/d/1Y4hPn9xm0gJaDfYy7AIr8AGIlyyXMNAx/view?usp=sharing) |
+| Minggu 4 | 2 - 6 Maret | **Exploratory Data Analysis** | ⏳ Segera |
+| Minggu 5 | 9 - 13 Maret | **Problem Solving & Business Question** | [📄 Link Tugas Problem Solving](https://docs.google.com/document/d/1SUfX2-8tUmP_n9CMmDsEew6_3WXPhl7A/edit?usp=sharing) |
+| Minggu 6 | 16 - 20 Maret | **Reporting & Data Storytelling** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
+| Minggu 7 | 23 - 27 Maret | **Final Project & Portfolio** | [📊 Link Spreadsheet Superstore](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing) · [📑 Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing) |
+| Minggu 8 | 30 - 31 Maret | **Presentasi Akhir & Evaluasi** | [🚀 Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 📌 JANUARI — Minggu 1: Jurnal Mengajar Guru
+### 📌 Minggu 1 (Januari) — Jurnal Mengajar Guru
 
 **Status: ✅ Selesai**
 
@@ -46,35 +46,40 @@ Membuat sistem berbasis Google Apps Script untuk pencatatan jurnal mengajar hari
 - Export data ke Excel/PDF
 - Login sederhana dengan verifikasi email Google
 
-**Link:** [🚀 Demo Aplikasi](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec)
+🔗 [Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec)
 
 ---
 
-### 📌 JANUARI — Minggu 2 & 3: Data Collection & Understanding
+### 📌 Minggu 2 (Januari) — Data Collection & Understanding
 
 **Status: ✅ Selesai**
 
-Praktik pengumpulan dan pemahaman data terkait sistem jadwal kuliah. Mencakup proses identifikasi sumber data, struktur data, dan pemahaman variabel.
+Praktik pengumpulan dan pemahaman data menggunakan **MySQL**. Tugas ini mencakup 10 part yang membahas pengelolaan basis data relasional dari dasar hingga query lanjutan.
 
-**Link:** [📁 Google Drive](https://drive.google.com/drive/folders/1Gh9g8R9_PDlnaqhsTSajOEvDga3etw6N?usp=sharing)
+| Part | Topik | Query Utama |
+|---|---|---|
+| Part 1 | Membuat Database & Tabel | `CREATE DATABASE`, `CREATE TABLE`, `INSERT INTO`, `SELECT`, `LIMIT` |
+| Part 2 | Constraint, Alias & Fungsi String | `PRIMARY KEY`, `AS`, `CONCAT`, Table Alias |
+| Part 3 | Filtering dengan WHERE & ORDER BY | `WHERE`, `AND`, `OR`, Operator Perbandingan, `ORDER BY` |
+| Part 4 | Fungsi Matematika & Agregasi | `MOD`, `EXP`, `UPPER`, `LOWER`, `MIN`, `MAX` |
+| Part 5 | CASE WHEN & Aggregasi Lanjutan | `CASE WHEN`, `SUM`, `AVG`, `GROUP BY`, `HAVING` |
+| Part 6 | JOIN Tabel | `INNER JOIN`, Kolom Terhitung |
+| Part 7 | JOIN Kompleks & BETWEEN | `DISTINCT`, `LIKE`, `BETWEEN`, JOIN Multi-kondisi |
+| Part 8 | Eksplorasi Database Subscription | `DESCRIBE`, Eksplorasi Tabel Nyata (Customer, Product, Invoice, Payment) |
+| Part 9 | Pengenalan Data CSV | Format CSV, Struktur Data Tabular |
+| Part 10 | GROUP BY, HAVING & Subquery JOIN | `GROUP BY` Lanjutan, `HAVING`, `WHERE` + `HAVING` + `JOIN` |
 
 ---
 
-### 📌 JANUARI — Minggu 4: Data Cleaning & Preparation
+### 📌 Minggu 3 (23 - 27 Februari) — Data Cleaning & Aplikasi Kasir
 
 **Status: ✅ Selesai**
 
-Membersihkan dan mempersiapkan data untuk pembuatan Jurnal Jadwal Kuliah. Mencakup penanganan missing value, duplikasi, dan standarisasi format data.
+Dua tugas dikerjakan di minggu ini: membuat Aplikasi Kasir Laundry berbasis Google Apps Script, dan melakukan proses data cleaning pada dua dataset berbeda.
 
-**Link:** [🚀 Demo Aplikasi](https://script.google.com/macros/s/AKfycbyK_KhbZzO53EjLd9qgOcjwf1YgCfUHtBQxSRmyfPdFZntwsNJIQw4wiy7KLcF3mAQUnQ/exec)
+**Aplikasi Kasir Laundry**
 
----
-
-### 📌 FEBRUARI — Minggu 1: Aplikasi Kasir Laundry
-
-**Status: ✅ Selesai**
-
-Membuat aplikasi kasir untuk usaha laundry berbasis Google Apps Script yang terhubung dengan Google Sheets sebagai database.
+Aplikasi kasir untuk usaha laundry yang terhubung dengan Google Sheets sebagai database.
 
 **Fitur:**
 - Input transaksi pelanggan
@@ -82,117 +87,112 @@ Membuat aplikasi kasir untuk usaha laundry berbasis Google Apps Script yang terh
 - Riwayat transaksi
 - Laporan harian/bulanan
 
-**Link:** [🚀 Demo Kasir](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec) | [📁 Database](https://drive.google.com/drive/folders/1d-9eAdEJqzrIezXaG_qindJNFEkKbavR?usp=sharing)
+🔗 [Link Aplikasi Kasir Laundry](https://script.google.com/macros/s/AKfycbwgTMd-LJneJRL2oohwMFuSFDFJqlglyaHpBN_KuROGWjOVAMxnjpOE3jAT7EzcTEu8ow/exec)
+
+**Data Cleaning**
+
+Proses pembersihan dua dataset untuk memastikan data siap dianalisis.
+
+- Dataset 1 — Cafe Sales: menangani missing value, nilai ERROR dan UNKNOWN, serta konversi tipe data. Hasil: 9.540 baris bersih dari 10.000 baris awal.
+- Dataset 2 — Retail Store: membersihkan data transaksi retail untuk keperluan analisis bisnis lanjutan.
+
+🔗 [Link Data Cleaning Cafe Sales](https://drive.google.com/file/d/1Ke1P3xOv8MrYWCV_B5nbLivdrTY_KA9c/view?usp=sharing)
+
+🔗 [Link Data Cleaning Retail Store](https://drive.google.com/file/d/1Y4hPn9xm0gJaDfYy7AIr8AGIlyyXMNAx/view?usp=sharing)
 
 ---
 
-### 📌 FEBRUARI — Minggu 2: Data Cleaning Cafe Store
+### 📌 Minggu 4 (2 - 6 Maret) — Exploratory Data Analysis
 
-**Status: ✅ Selesai**
-
-Proses pembersihan dataset penjualan cafe (dirty_cafe_sales.csv). Menangani missing value, nilai ERROR dan UNKNOWN, serta memastikan konsistensi tipe data.
-
-**Proses Cleaning:**
-- Mengganti nilai ERROR dan UNKNOWN dengan NaN
-- Mengisi missing value dengan median/modus yang sesuai
-- Konversi tipe data numerik
-- Membuang baris dengan Transaction Date tidak valid (460 baris)
-- Hasil: 9.540 baris bersih dari 10.000 baris awal
-
-**Link:** [📁 Google Drive](https://drive.google.com/drive/folders/1hSdUCgAGx3Wc_GTYCQUAsKLK-gvNGRFp?usp=sharing)
+**Status: ⏳ Segera**
 
 ---
 
-### 📌 FEBRUARI — Minggu 3: Sistem Pengaduan Warga
+### 📌 Minggu 5 (9 - 13 Maret) — Problem Solving & Business Question
 
 **Status: ✅ Selesai**
 
-Membuat aplikasi sistem pengaduan warga berbasis Google Apps Script. Warga dapat menyampaikan keluhan atau laporan yang langsung tersimpan di database.
-
-**Fitur:**
-- Form pengaduan warga
-- Tracking status pengaduan
-- Dashboard admin
-- Notifikasi email otomatis
-
-**Link:** [🚀 Demo Aplikasi](https://script.google.com/macros/s/AKfycbzT8YUQGOoRDAGJQhCDlApf1PuoVVFUyoAXCAdckW8zQ6Llkzn0zgKQE9jIDx6rJnun1Q/exec) | [📁 Database](https://drive.google.com/drive/folders/1Gcw5KcWLl2_SifQIZ0Zv9SdMp0rsEqOi?usp=sharing)
-
----
-
-### 📌 MARET — Minggu 1: Problem Solving & Business Question
-
-**Status: ✅ Selesai**
-
-Analisis mendalam dari dataset Retail Store Sales (11.971 transaksi) untuk menjawab 4 pertanyaan bisnis utama manajemen.
-
-**Pertanyaan Bisnis yang Dijawab:**
-1. Lokasi mana yang paling menguntungkan? (Online vs In-store)
-2. Kategori produk mana yang paling berisiko?
-3. Apakah diskon mempengaruhi profit?
-4. Item mana yang perlu dievaluasi?
+Analisis mendalam dari dataset Retail Store Sales untuk menjawab pertanyaan bisnis utama manajemen, mencakup identifikasi lokasi paling menguntungkan, kategori produk berisiko, pengaruh diskon terhadap profit, dan evaluasi item kritis.
 
 **Key Findings:**
 - Online unggul revenue, tapi margin hampir sama dengan In-store (35.3% vs 35.4%)
 - Patisserie paling berisiko — margin 28% terendah
-- Diskon tidak selektif — estimasi revenue hilang ~$104,889/tahun
+- Diskon tidak selektif — estimasi revenue hilang ~$104.889/tahun
 - Item_3_EHE kritis: diskon 60% dengan profit hanya $83
 
-**Link:** [📁 Google Drive](https://drive.google.com/drive/folders/1VYhlzVDsC-55nsIy5niQfFdWKdx79utp?usp=sharing)
+🔗 [Link Tugas Problem Solving & Business Question](https://docs.google.com/document/d/1SUfX2-8tUmP_n9CMmDsEew6_3WXPhl7A/edit?usp=sharing)
 
 ---
 
-### 📌 MARET — Minggu 2: Analisis Data — Laporan Bisnis & Data Storytelling (Tugas 6 & 7)
+### 📌 Minggu 6 (16 - 20 Maret) — Reporting & Data Storytelling
 
 **Status: ✅ Selesai**
 
-Proyek analisis data end-to-end menggunakan dataset Retail Store Sales (12.575 transaksi) sebagai portfolio Data Analyst.
+Menyusun laporan bisnis visual berdasarkan hasil analisis data Superstore. Laporan disajikan dalam format spreadsheet dan presentasi profesional.
 
-#### Tugas 6 — Reporting & Data Storytelling
-Membuat laporan analisis bisnis lengkap yang mencakup:
-- Dashboard Excel dengan 7 sheet analisis dan 5 visualisasi
-- Laporan PPT 9 slide profesional
-- Dokumen Data Storytelling (Business Context, Key Findings, Business Implication, Recommendation)
+**Isi Laporan:**
+- Executive Summary hasil analisis
+- Visualisasi tren penjualan dan profitabilitas
+- Identifikasi produk dan wilayah berperforma tinggi
+- Rekomendasi strategis berbasis data
 
-#### Tugas 7 — Final Project & Portfolio
-Mempublikasikan hasil analisis sebagai portfolio profesional:
-- Repository GitHub dengan dokumentasi lengkap
-- Artikel blog teknis ~3.000 kata
-- Dashboard Excel sebagai file visualisasi
+🔗 [Link Spreadsheet Superstore Analyst](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing)
 
-**Output Files:**
-- `RetailStore_Analysis.xlsx` — Excel 7 sheet + dashboard
-- `RetailStore_Tugas6_Final.pptx` — PPT 9 slide
-- `DataStorytelling_EDA_Final.docx` — Laporan Word 4 halaman
+🔗 [Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing)
 
-**Link:** [📁 Google Drive](https://drive.google.com/drive/folders/1U4qTX_sxceyaI9Ccuu07Ickec-cowsUi?usp=sharing)
+---
+
+### 📌 Minggu 7 (23 - 27 Maret) — Final Project & Portfolio
+
+**Status: ✅ Selesai**
+
+Proyek analisis data end-to-end menggunakan dataset Superstore sebagai portfolio Data Analyst. Menggabungkan seluruh tahapan: pengumpulan, pembersihan, analisis, dan penyajian data.
+
+**Output:**
+- Dashboard interaktif di Google Spreadsheet dengan berbagai sheet analisis
+- Laporan presentasi PPT 9 slide profesional
+- Dokumentasi lengkap proses analisis
+
+🔗 [Link Spreadsheet Superstore Analyst](https://docs.google.com/spreadsheets/d/1ihaqhp3guMfeqU-ePn_kN9623VcFelbs/edit?usp=sharing)
+
+🔗 [Link PPT Superstore Report](https://docs.google.com/presentation/d/1rkl62JOH4PfqPUIgV8Tib6XGvCFPoMFM/edit?usp=sharing)
+
+---
+
+### 📌 Minggu 8 (30 - 31 Maret) — Presentasi Akhir & Evaluasi
+
+**Status: ✅ Selesai**
+
+Presentasi hasil proyek akhir kepada dosen/penguji dan evaluasi keseluruhan pembelajaran. Memaparkan perjalanan pengerjaan tugas dari awal hingga akhir beserta insight dan lesson learned.
+
+🔗 [Link Aplikasi Jurnal Mengajar Guru](https://script.google.com/macros/s/AKfycbzVBy9ZBJOo1QEjJpB5LixZioU6WNaAhsZobToyKlo7GQYE4YBmPXfLxdAoIXWHVkqemw/exec)
 
 ---
 
 ## 🛠️ Tools & Teknologi
 
 | Tools | Kegunaan |
-|-------|----------|
+|---|---|
 | ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white) | Pembuatan aplikasi web berbasis Google |
 | ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | Analisis data & visualisasi |
 | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) | Database & spreadsheet |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Pengelolaan basis data relasional |
 | ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) | Laporan presentasi |
-| ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=google-drive&logoColor=white) | Penyimpanan & berbagi file |
 
 ---
 
 ## 📊 Progress Tugas
 
-| Bulan | Total Tugas | Selesai | Progress |
-|-------|-------------|---------|----------|
-| Januari | 3 | 3 | ✅ 100% |
-| Februari | 3 | 3 | ✅ 100% |
-| Maret | 2 | 2 | ✅ 100% |
-| **Total** | **8** | **8** | **✅ 100%** |
+| Minggu | Tanggal | Tugas | Status |
+|---|---|---|---|
+| Minggu 1 | Januari | Jurnal Mengajar Guru | ✅ Selesai |
+| Minggu 2 | Januari | Data Collection & Understanding | ✅ Selesai |
+| Minggu 3 | 23 - 27 Februari | Data Cleaning & Aplikasi Kasir | ✅ Selesai |
+| Minggu 4 | 2 - 6 Maret | Exploratory Data Analysis | ⏳ Segera |
+| Minggu 5 | 9 - 13 Maret | Problem Solving & Business Question | ✅ Selesai |
+| Minggu 6 | 16 - 20 Maret | Reporting & Data Storytelling | ✅ Selesai |
+| Minggu 7 | 23 - 27 Maret | Final Project & Portfolio | ✅ Selesai |
+| Minggu 8 | 30 - 31 Maret | Presentasi Akhir & Evaluasi | ✅ Selesai |
 
 ---
 
-> 💡 *"Data is not just numbers — it's the story of your business waiting to be told."*
-
----
-
-*Last updated: Maret 2026*
